@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start, #number_of_objects, #start{
+    font-size: 18px;
+}
+
+.copy_right_footer{
+    font-family: 'Blaka Hollow', cursive;
+    font-family: 'Dancing Script', cursive;
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 2px, solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 60px -16px teal;
+}
+
+label{
+    font-size: 12px;
+    color: black;
+}
+
+input{
+    width: 250px;
+    height: 35px;
+}
